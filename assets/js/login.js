@@ -6,7 +6,7 @@ login.addEventListener("click", function (event) {
     event.preventDefault();
 
     if (username.value === "admin123" && password.value === "12345678") {
-        window.location.href = "loged.html";
+        window.location.href = "logged.html";
     } else {
         alert("Username atau password salah. Silakan coba lagi.");
     }
