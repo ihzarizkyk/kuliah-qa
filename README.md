@@ -9,8 +9,8 @@ Kuliah QA adalah website yang berfungsi untuk melatih kemampuan QA kamu dengan b
 
 1. Login Test Case (READY)
 2. API Test Case
-3. UI Test Case
-4. Data Table Test Case
+3. Select Item Test Case (READY)
+4. Data Table Test Case (READY)
 
 ### Bagaimana Cara Contribute?
 
