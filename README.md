@@ -12,7 +12,7 @@ Kuliah QA adalah website yang berfungsi untuk melatih kemampuan QA kamu dengan b
 3. UI Test Case
 4. Data Table Test Case
 
-### How to Contribute?
+### Bagaimana Cara Contribute?
 
 1. Fork this repository
 2. Cloning into your local computer
