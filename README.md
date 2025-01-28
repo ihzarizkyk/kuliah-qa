@@ -8,7 +8,7 @@ Kuliah QA adalah website yang berfungsi untuk melatih kemampuan QA kamu dengan b
 ### Playground Items
 
 1. Login Test Case (READY)
-2. API Test Case
+2. API Test Case (READY)
 3. Select Item Test Case (READY)
 4. Data Table Test Case (READY)
 
