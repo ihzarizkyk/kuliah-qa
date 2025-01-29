@@ -9,32 +9,42 @@
 
 <url>
   <loc>https://kuliahqa.netlify.app/</loc>
-  <lastmod>2025-01-28T22:43:51+00:00</lastmod>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://kuliahqa.netlify.app/playgrounds/</loc>
-  <lastmod>2025-01-28T22:43:51+00:00</lastmod>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kuliahqa.netlify.app/playgrounds/tc_login/login</loc>
-  <lastmod>2025-01-28T22:43:51+00:00</lastmod>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://kuliahqa.netlify.app/playgrounds/tc_table/table</loc>
-  <lastmod>2025-01-28T22:43:51+00:00</lastmod>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://kuliahqa.netlify.app/playgrounds/tc_api/</loc>
-  <lastmod>2025-01-28T22:43:51+00:00</lastmod>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://kuliahqa.netlify.app/playgrounds/tc_select/</loc>
-  <lastmod>2025-01-28T22:43:51+00:00</lastmod>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kuliahqa.netlify.app/playgrounds/tc_modal/</loc>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kuliahqa.netlify.app/playgrounds/tc_ranges/</loc>
+  <lastmod>2025-01-29T09:30:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
