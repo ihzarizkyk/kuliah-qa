@@ -13,6 +13,7 @@ Kuliah QA adalah website yang berfungsi untuk melatih kemampuan QA kamu dengan b
 4. Data Table Test Case (READY)
 5. Modal Test Case (READY)
 6. Range Input Test Case (READY)
+7. Upload Images and Preview Test Case (READY)
 
 ### Bagaimana Cara Contribute?
 
